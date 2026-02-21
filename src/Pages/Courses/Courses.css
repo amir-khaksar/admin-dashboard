@@ -1,6 +1,8 @@
 .products {
     height: 72%;
     padding: 2rem;
+    overflow-y: auto;
+
   }
   
   .new-course {
