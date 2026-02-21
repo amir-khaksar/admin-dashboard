@@ -37,7 +37,7 @@ This project demonstrates user management, notifications system, and profile sec
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/admin-dashboard.git
+git clone https://github.com/amir-khaksar/admin-dashboard.git
 ```
 
 2️⃣ Navigate into the project directory:
